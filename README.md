@@ -1,4 +1,8 @@
-# MyApp
+# Task Tracker
+
+Submitted by: **Hung Truong**
+
+This web app: **Task Tracker for people to remember and track their calendar**
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
 
@@ -25,3 +29,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## License
+
+    Copyright [2023] [Hung Truong]
